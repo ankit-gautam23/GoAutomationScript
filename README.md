@@ -1,4 +1,4 @@
-Certainly! Here's an example automation script in Go that can convert method signatures and return statements from C# to Go:
+Here's an example automation script in Go that can convert method signatures and return statements from C# to Go:
 
 To use the script, you can save it to a file named convert.go and then run it from the command line with the path to a C# file as an argument, like this:
 ```
